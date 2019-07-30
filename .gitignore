@@ -1,1 +1,4 @@
 *.code-workspace
+
+# npm package directory
+node_modules/
