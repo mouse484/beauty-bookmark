@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ryuta69/beauty-bookmark/issues"
   },
-  "homepage": "https://github.com/ryuta69/beauty-bookmark#readme"
+  "homepage": "https://github.com/ryuta69/beauty-bookmark#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  }
 }
