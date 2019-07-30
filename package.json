@@ -1,0 +1,19 @@
+{
+  "name": "beauty-bookmark",
+  "version": "1.0.0",
+  "description": "Beautify your new tab with nested bookmark lists!",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryuta69/beauty-bookmark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryuta69/beauty-bookmark/issues"
+  },
+  "homepage": "https://github.com/ryuta69/beauty-bookmark#readme"
+}
