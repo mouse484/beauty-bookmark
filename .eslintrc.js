@@ -7,7 +7,13 @@ module.exports = {
         "eslint:recommended",
         "plugin:prettier/recommended"
     ],
-     rules: {
+    globals: {
+        "chrome": true
+    },
+    rules: {
         "prettier/prettier": "error",
+        "no-var": "error",
+        "prefer-arrow-callback": "error",
+        "eqeqeq":"error",
     }
 };
