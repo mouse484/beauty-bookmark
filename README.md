@@ -18,7 +18,7 @@
 <br />
 <p align="center">
 <a href="https://github.com/ryuta69">
-<img src="icons/icon.png" alt="Logo" width="80" height="80">
+<img src="icons/icon.png" alt="Logo" width="80">
 </a>
 
 <h3 align="center">Beauty Bookmark</h3>
@@ -66,8 +66,14 @@ Here's differences:
 
 <!-- INSTALLATION -->
 ## Installation
+Get extension at [Not Available Yet](https://example.com)
 
-1. Open Google Store to get extension at [Not Available Yet](https://example.com)
+### Developer
+1. Clone this Repository.
+2. Open "Setting" > "Extension" on chrome browser.
+3. Turn on "Developer mode" on right above.
+4. Click "Load unpackaged extension" button.
+5. Load downloaded repository.
 
 
 
@@ -114,4 +120,3 @@ Kohei Murakami - [@ryuta005](https://twitter.com/ryuta005) / eyma22s.yu@gmail.co
 [issues-url]: https://github.com/ryuta69/beauty-bookmark/issues
 [license-shield]: https://img.shields.io/github/license/ryuta69/beauty-bookmark.svg?style=flat-square
 [license-url]: https://github.com/ryuta69/beauty-bookmark/blob/master/LICENSE.txt
-
