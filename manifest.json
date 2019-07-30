@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Sample",
+    "version": "1.0",
+
+    "description": "サンプル拡張機能",
+
+    "icons": {
+        "16": "icons/icon.png",
+        "48": "icons/icon.png",
+        "128": "icons/icon.png"
+    },
+
+    "content_scripts": [{
+        "matches": ["https://twitter.com/*"],
+        "js": ["main.js"]
+    }]
+}
