@@ -1,18 +1,22 @@
 {
     "manifest_version": 2,
-    "name": "Sample",
+    "name": "Beauty Bookmark",
     "version": "1.0",
 
-    "description": "サンプル拡張機能",
+    "description": "Google Extension for listing bookmarks beautifully in a new tab.",
+
+    "chrome_url_overrides": {
+        "newtab": "bookmark.html"
+    },
+
+    "permissions": [
+        "tabs",
+        "management"
+    ],
 
     "icons": {
         "16": "icons/icon.png",
         "48": "icons/icon.png",
         "128": "icons/icon.png"
-    },
-
-    "content_scripts": [{
-        "matches": ["https://twitter.com/*"],
-        "js": ["main.js"]
-    }]
+    }
 }
