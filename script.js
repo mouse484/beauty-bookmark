@@ -1,5 +1,5 @@
 document.OnLoad = start();
 
 function start() {
-    window.alert('Hello World !!')
+    window.alert('オオオオオオン！');
 }
